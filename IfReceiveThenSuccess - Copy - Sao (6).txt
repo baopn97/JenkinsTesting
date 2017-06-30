@@ -1,0 +1,1 @@
+Example for Jenkins get files , if this file appear in repository : cme-app that's mean success :D
